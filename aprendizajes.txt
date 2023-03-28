@@ -1,0 +1,14 @@
+Python by NASA
+
+Descargar bibliotecas de IA de python
+    https://learn.microsoft.com/es-es/training/modules/introduction-artificial-intelligence-nasa/7-install-ai-libraries
+
+    SE USA LAS BIBLIOTECAS DE ANACONDA, ANACONDA es una distribución de R y de Python
+        conda -V
+
+        conda --version
+        conda -V
+
+
+Instalar python
+Instalar bibliotecas de IA
